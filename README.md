@@ -1,4 +1,7 @@
 sublime-text
 ============
 
-Sublime Text
+This is my Sublime Text user settings file!
+
+M :)
+
