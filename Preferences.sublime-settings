@@ -1,9 +1,11 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
+	"theme": "Soda Dark.sublime-theme",
+	"soda_classic_tabs": true,
 	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
 	"fade_fold_buttons": false,
-	"font_size": 12.0,
+	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -11,9 +13,9 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+	"scroll_past_end": true,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false,
-	"scroll_past_end": true
+	"word_wrap": false
 }
