@@ -1,21 +1,40 @@
 {
 	"bold_folder_labels": true,
 	"caret_style": "phase",
-	"theme": "Soda Dark.sublime-theme",
-	"soda_classic_tabs": true,
-	"color_scheme": "Packages/Color Scheme - Default/Sunburst.tmTheme",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/One Dark Color Scheme/One Dark.tmTheme",
+	"detect_indentation": false,
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"drag_text": false,
+	"draw_white_space": "all",
 	"fade_fold_buttons": false,
-	"font_size": 11,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache"
+	],
+	"font_face": "fira mono",
+	"font_size": 18,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Markdown",
 		"Vintage"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
-	"scroll_past_end": true,
-	"tab_size": 4,
-	"translate_tabs_to_spaces": false,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"spacegray_sidebar_font_small": true,
+	"spacegray_sidebar_tree_small": true,
+	"spacegray_tabs_auto_width": true,
+	"spacegray_tabs_font_small": true,
+	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": false,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+	"word_wrap": "true",
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_"
 }
