@@ -19,3 +19,15 @@ Somewhere to keep a record of my Sublime Text preferences and list the packages 
 + Sass
 + SublimeLinter-contrib-scss-lint
 + Theme - Spacegray
+
+## Package config
+
+### Color Highlighter
+
+If not already installed, run `brew install ImageMagick`, which gets the gutter icons working. From the (annoying) series of dropdown menus, choose the following:
+
++ Tools → Color Highlighter → Color Highlighters → Highlight colors in selected text → Inline highlighting style → Filled
++ Tools → Color Highlighter → Color Highlighters → Highlight colors in all text → Inline highlighting style → Text
++ Tools → Color Highlighter → Color Highlighters → Highlight colors in all text → Gutter icon style → Circle
+
+All the rest should be 'None'.
