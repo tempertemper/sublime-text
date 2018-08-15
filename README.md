@@ -12,6 +12,7 @@ Somewhere to keep a record of my Sublime Text preferences and list the packages 
 + Handlebars
 + MarkdownEditiing
 + nginx
++ nunjucks-extended (install [directly from repo](https://github.com/thecodechef/nunjucks-extended))
 + One Dark Color Scheme
 + Package Control
 + ProjectManager
@@ -19,6 +20,7 @@ Somewhere to keep a record of my Sublime Text preferences and list the packages 
 + Sass
 + SublimeLinter-contrib-scss-lint
 + Theme - Spacegray
++ TypeScript
 
 ## Package config
 
