@@ -33,3 +33,5 @@ If not already installed, run `brew install ImageMagick`, which gets the gutter 
 + Tools → Color Highlighter → Color Highlighters → Highlight colors in all text → Gutter icon style → Circle
 
 All the rest should be 'None'.
+
+See `ColorHighlighter.sublime-settings` file in this repo, which should live in `~/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings`
