@@ -22,6 +22,13 @@ Somewhere to keep a record of my Sublime Text preferences and list the packages 
 + Theme - Spacegray
 + TypeScript
 
+## Preferences, etc.
+
+For preferences, see `Preferences.sublime-settings` in this repo, located at `~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings`
+
+For keybindings, see `Default (OSX).sublime-keymap` in this repo, located at `~/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap`
+
+
 ## Package config
 
 ### Color Highlighter
