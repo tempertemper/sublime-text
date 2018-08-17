@@ -1,0 +1,8 @@
+
+[
+  { "keys": ["ctrl+tab"], "command": "next_view" },
+  { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+  { "keys": ["super+t"], "command": "new_file" },
+  { "keys": ["super+n"], "command": "new_window" },
+  { "keys": ["super+shift+n"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} }
+]
