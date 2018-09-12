@@ -2,6 +2,7 @@
 
 Somewhere to keep a record of my Sublime Text preferences and list the packages I install.
 
+
 ## Packages
 
 + ApacheConf
@@ -22,11 +23,12 @@ Somewhere to keep a record of my Sublime Text preferences and list the packages 
 + Theme - Spacegray
 + TypeScript
 
+
 ## Preferences, etc.
 
-For preferences, see `Preferences.sublime-settings` in this repo, located at `~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings`
+For preferences, see `Preferences.sublime-settings` in this repo, located at `~/Library/Application Support/Sublime Text 3/Packages/User/`
 
-For keybindings, see `Default (OSX).sublime-keymap` in this repo, located at `~/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap`
+For keybindings, see `Default (OSX).sublime-keymap` in this repo, located at `~/Library/Application Support/Sublime Text 3/Packages/User/`
 
 
 ## Package config
@@ -41,10 +43,16 @@ If not already installed, run `brew install ImageMagick`, which gets the gutter 
 
 All the rest should be 'None'.
 
-See `ColorHighlighter.sublime-settings` file in this repo, which should live in `~/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings`
+See `ColorHighlighter.sublime-settings` file in this repo, which should live in `~/Library/Application Support/Sublime Text 3/Packages/User/`
 
 ### MarkdownEditing
 
 Bold and italic markers are `_` and `__` by default. This should be overriden to `*` and `**` in `Bold and Italic Markers.tmPreferences` (file in this repo), which should live in `~/Library/Application Support/Sublime Text 3/Packages/User/Bold and Italic Markers.tmPreferences`
 
-The editor theme should be set to ArkDark, via the `Markdown.sublime-settings` file in `~/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings`
+The editor theme should be set to Dark in the following files:
+
+- `Markdown.sublime-settings`
+- `Markdown (Standard).sublime-settings`
+- `MultiMarkdown.sublime-settings`
+
+All in the `~/Library/Application Support/Sublime Text 3/Packages/User/` directory.
