@@ -42,3 +42,9 @@ If not already installed, run `brew install ImageMagick`, which gets the gutter 
 All the rest should be 'None'.
 
 See `ColorHighlighter.sublime-settings` file in this repo, which should live in `~/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings`
+
+### MarkdownEditing
+
+Bold and italic markers are `_` and `__` by default. This should be overriden to `*` and `**` in `Bold and Italic Markers.tmPreferences` (file in this repo), which should live in `~/Library/Application Support/Sublime Text 3/Packages/User/Bold and Italic Markers.tmPreferences`
+
+The editor theme should be set to ArkDark, via the `Markdown.sublime-settings` file in `~/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings`
