@@ -1,10 +1,16 @@
 {
-  "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
-  "wrap_width": 60,
+  "caret_style": "phase",
+  "color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro (Filter Spectrum).sublime-color-scheme",
+  "drag_text": true,
+  "draw_white_space": "none",
+  "fold_buttons": false,
+  "font_face": "Operator Mono Book",
+  "font_size": 20,
   "highlight_line": true,
-  "font_size": 19,
-  "line_padding_top": 4,
+  "line_numbers": false,
   "line_padding_bottom": 4,
-  "font_face": "Fira Code light",
-  "caret_style": "phase"
+  "line_padding_top": 4,
+  "mde.keymap_disable.fold_section": true,
+  "mde.list_indent_auto_switch_bullet": false,
+  "wrap_width": 65
 }
