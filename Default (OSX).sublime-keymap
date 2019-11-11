@@ -1,8 +1,69 @@
-
 [
-  { "keys": ["ctrl+tab"], "command": "next_view" },
-  { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
-  { "keys": ["super+t"], "command": "new_file" },
-  { "keys": ["super+n"], "command": "new_window" },
-  { "keys": ["super+shift+n"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} }
+  // Uses macOS style tab and windows shortcust
+  {
+    "keys": ["ctrl+tab"],
+    "command": "next_view"
+  },
+  {
+    "keys": ["ctrl+shift+tab"],
+    "command": "prev_view"
+  },
+  {
+    "keys": ["super+t"],
+    "command": "new_file"
+  },
+  {
+    "keys": ["super+n"],
+    "command": "new_window"
+  },
+  {
+    "keys": ["super+shift+n"],
+    "command": "show_overlay",
+    "args": {
+      "overlay": "goto",
+      "show_files": true
+    }
+  },
+  // Shortcut to put keyboard focus in sidebar
+  {
+    "keys": ["super+0"],
+    "command":
+    "focus_side_bar"
+  },
+  // Fix End of line
+  {
+    "keys": ["alt+down"],
+    "command": "move_to",
+    "args": {
+      "to": "hardeol",
+      "extend": false
+    }
+  },
+  // Fix Beginning of line
+  {
+    "keys": ["alt+up"],
+    "command": "move_to",
+    "args": {
+      "to": "hardbol",
+      "extend": false
+    }
+  },
+  // Fix end of line + select
+  {
+    "keys": ["alt+shift+down"],
+    "command": "move_to",
+    "args": {
+      "to": "hardeol",
+      "extend": true
+    }
+  },
+  // Fix beginning of line + select
+  {
+    "keys": ["alt+shift+up"],
+    "command": "move_to",
+    "args": {
+      "to": "hardbol",
+      "extend": true
+    }
+  }
 ]
