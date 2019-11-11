@@ -16,11 +16,13 @@ Somewhere to keep a record of my Sublime Text preferences and list the packages 
 + nunjucks-extended (install [directly from repo](https://github.com/thecodechef/nunjucks-extended))
 + One Dark Color Scheme
 + Package Control
++ Project Specific Syntax Settings
 + ProjectManager
 + PyV8
 + Sass
 + SublimeLinter-contrib-scss-lint
-+ Theme - Spacegray
++ Theme - Monokai Pro
++ TOML
 + TypeScript
 
 
