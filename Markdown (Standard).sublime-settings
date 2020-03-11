@@ -12,5 +12,6 @@
   "line_padding_top": 4,
   "mde.keymap_disable.fold_section": true,
   "mde.list_indent_auto_switch_bullet": false,
+  "draw_white_space": "selection",
   "wrap_width": 65
 }
