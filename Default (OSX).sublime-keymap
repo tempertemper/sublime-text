@@ -1,5 +1,4 @@
 [
-  // Uses macOS style tab and windows shortcust
   {
     "keys": ["ctrl+tab"],
     "command": "next_view"
@@ -24,11 +23,15 @@
       "show_files": true
     }
   },
-  // Shortcut to put keyboard focus in sidebar
+  // Change focus
   {
     "keys": ["super+0"],
-    "command":
-    "focus_side_bar"
+    "command": "focus_side_bar"
+  },
+  // Text conversion
+  {
+    "keys": ["super+k", "super+t"],
+    "command": "title_case"
   },
   // Fix End of line
   {
