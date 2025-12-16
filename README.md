@@ -28,15 +28,3 @@ For keybindings, see `Default (OSX).sublime-keymap` in this repo, located at `~/
 ## Package config
 
 Many of these packages have their own configuration. The config files are in this repo and should be added to `~/Library/Application Support/Sublime Text 3/Packages/User/`.
-
-
-### MarkdownEditing
-
-Bold and italic markers are `_` and `__` by default. This should be overridden to `*` and `**` in `Bold and Italic Markers.tmPreferences` (file in this repo), which should live in `~/Library/Application Support/Sublime Text 3/Packages/User/Bold and Italic Markers.tmPreferences`
-
-The editor theme is configured in the following files:
-
-- `Markdown.sublime-settings`
-- `Markdown (Standard).sublime-settings`
-- `MultiMarkdown.sublime-settings`
-
