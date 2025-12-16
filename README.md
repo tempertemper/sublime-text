@@ -17,13 +17,8 @@ These are all installed via Package Control unless otherwise stated. If you don'
 - [TOML](https://packagecontrol.io/packages/TOML)
 
 
-## Preferences, etc.
+## Config
 
-For preferences, see `Preferences.sublime-settings` in this repo, located at `~/Library/Application Support/Sublime Text 3/Packages/User/`
+For preferences/settins, see [Preferences.sublime-settings](https://github.com/tempertemper/sublime-text/blob/master/Preferences.sublime-settings).
 
-For keybindings, see `Default (OSX).sublime-keymap` in this repo, located at `~/Library/Application Support/Sublime Text 3/Packages/User/`
-
-
-## Package config
-
-Many of these packages have their own configuration. The config files are in this repo and should be added to `~/Library/Application Support/Sublime Text 3/Packages/User/`.
+For keybindings, see [Default (OSX).sublime-keymap](https://github.com/tempertemper/sublime-text/blob/master/Default%20(OSX).sublime-keymap).
