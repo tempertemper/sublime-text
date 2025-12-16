@@ -8,7 +8,6 @@ Somewhere to keep a record of my Sublime Text preferences and list the packages 
 These are all installed via Package Control unless otherwise stated. If you don't already have it [Package Control itself should be installed](https://packagecontrol.io/installation) before going any further.
 
 - [EditorConfig](https://packagecontrol.io/packages/EditorConfig)
-- [JSON Key-Value](https://packagecontrol.io/packages/JSON%20Key-Value)
 - [MarkdownEditing](https://sublimetext-markdown.github.io/MarkdownEditing/)
 - [Nunjucks](https://github.com/alsolovyev/Nunjucks)
 - [Package Control](https://packagecontrol.io)
